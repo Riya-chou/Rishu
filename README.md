@@ -1,2 +1,2 @@
 # Rishu
-this is my first project 
+THIS IS MY FIRST GITHUB REPOSITORY
